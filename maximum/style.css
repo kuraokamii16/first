@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(34, 40, 94);
+    background-color: rgb(220, 240, 252);
+
+}
+hr {
+height: 1px;
+background-color: rgb(36, 38, 129);
+border: none;
+}
+img {
+border-radius: 20%;
+border-color: rgb(36, 38, 129);
+border-style: dashed;
+border-width: 5px;
+}
